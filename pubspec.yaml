@@ -11,7 +11,10 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  video_player: any
+  video_player:
+    git:
+      url: https://github.com/atech-dev/plugins.git
+      path: packages/video_player/video_player
   wakelock: ^0.5.1
 
 dev_dependencies:
