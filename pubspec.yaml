@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
   video_player:
     git:
-      url: https://github.com/atech-dev/plugins.git
-      path: packages/video_player/video_player
+      url: https://github.com/999eagle/plugins.git
+      path: packages/video_player
   wakelock: ^0.5.1
 
 dev_dependencies:
